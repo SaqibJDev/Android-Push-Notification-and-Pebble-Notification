@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TUMitfahrer_PushNotification</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    <!-- Push Notification / Pebble Contants -->
+    <string name="deviceNotSupported">This device is not supported.</string>
+    <string name="googlePlayServiceNotFound">No valid Google Play Services APK found.</string>
+    
+    <!-- Notification Engine Strings -->
+    <string name="messageTitle">TUMitfahrer</string>
+
+</resources>
